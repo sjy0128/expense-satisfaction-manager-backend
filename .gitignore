@@ -1,0 +1,4 @@
+expenses.db
+.venv/
+__pycache__/
+.idea/
